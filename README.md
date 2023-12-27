@@ -2,12 +2,12 @@
 This project implements a Sign Up Page using PHP, MySQL, and Google Authentication. Users can sign up using their Google accounts, and their information will be stored in a MySQL database.
 ## Features
 Google Authentication: Users can sign up using their Google accounts, ensuring secure authentication.<br>
-MySQL Database: User information is stored in a MySQL database for easy retrieval and management.
+MySQL Database: User information is stored in a MySQL database for easy retrieval and management.<br>
 PHP Implementation: The Sign Up Page functionality is built using PHP for server-side processing.
 
 ## Requirements
-PHP 
-MySQL 
+PHP <br>
+MySQL <br>
 Google API credentials
 
 ## Installation
